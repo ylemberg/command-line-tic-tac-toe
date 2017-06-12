@@ -1,0 +1,8 @@
+{
+  "name": "command-line-tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ylemberg/command-line-tic-tac-toe.git",
+  "author": "Yuriy Lemberg <yuriy.v.lemberg@gmail.com>",
+  "license": "MIT"
+}
