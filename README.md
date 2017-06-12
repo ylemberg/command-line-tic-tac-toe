@@ -1,6 +1,4 @@
-### Prompt
-
-Make a command line tic-tac-toe game from scratch for two players. 
+# Make a command line tic-tac-toe game from scratch for two players. 
 Expected features
 ===============
 * Minimal UI that redraws the board and makes clear whose turn it is, each turn.
